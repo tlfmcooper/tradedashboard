@@ -1,1 +1,12 @@
 node_modules
+# Ignore build directory
+/build
+
+# Ignore JavaScript source maps
+/build/static/js/*.map
+
+# Ignore CSS source maps
+/build/static/css/*.map
+
+# Ignore any other files or folders specific to your build setup
+
