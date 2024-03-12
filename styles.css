@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+.selection-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.country-selection,
+.year-selection {
+  width: 80%; /* Adjust the width as needed */
+  margin-bottom: 1rem; /* Add more space between the sliders*/
+}
+
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+  
+}
+
+.plot-container {
+  width: 80%; /* Adjust the width as needed */
+  height: auto; /* Adjust the height as needed */
+}

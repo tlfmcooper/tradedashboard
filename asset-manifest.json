@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/tradedashboard/static/js/main.b92b3627.chunk.js",
+    "main.js.map": "/tradedashboard/static/js/main.b92b3627.chunk.js.map",
+    "runtime-main.js": "/tradedashboard/static/js/runtime-main.ce741be4.js",
+    "runtime-main.js.map": "/tradedashboard/static/js/runtime-main.ce741be4.js.map",
+    "static/js/2.7da2f0fc.chunk.js": "/tradedashboard/static/js/2.7da2f0fc.chunk.js",
+    "static/js/2.7da2f0fc.chunk.js.map": "/tradedashboard/static/js/2.7da2f0fc.chunk.js.map",
+    "index.html": "/tradedashboard/index.html",
+    "static/js/2.7da2f0fc.chunk.js.LICENSE.txt": "/tradedashboard/static/js/2.7da2f0fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce741be4.js",
+    "static/js/2.7da2f0fc.chunk.js",
+    "static/js/main.b92b3627.chunk.js"
+  ]
+}
