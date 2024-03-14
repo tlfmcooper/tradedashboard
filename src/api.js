@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = process.env.SERVER_URL || 'http://localhost:3001/data';
+const API_URL = process.env.SERVER_URL || 'https://trade-1tdl7zam7-tlfmcoopers-projects.vercel.app/data';
 
 
 export const fetchData = async () => {

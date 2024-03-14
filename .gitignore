@@ -12,3 +12,4 @@ node_modules
 
 # Ignore any other files or folders specific to your build setup
 
+.vercel
