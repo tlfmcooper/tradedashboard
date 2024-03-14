@@ -4,14 +4,15 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
     "axios": "^0.21.1",
+    "chart.js": "^4.4.2",
+    "gh-pages": "^6.1.1",
     "plotly.js": "^2.3.1",
     "plotly.js-basic-dist": "^1.58.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-plotly.js": "^2.5.1",
-    "chart.js": "^4.4.2"
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "predeploy": "npm run build",
